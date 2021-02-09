@@ -1,0 +1,183 @@
+[2021-02-08 19:24:38 : INFO] - Re_Smush_It_Task with attachment ID : 2488, autocreated on : February 08, 2021 07:24:38 
+[2021-02-08 19:26:14 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:28:15 : INFO] - Re_Smush_It_Task with attachment ID : 2490, autocreated on : February 08, 2021 07:28:15 
+[2021-02-08 19:29:44 : INFO] - 
+ 
+[2021-02-08 19:29:44 : INFO] - Header for logs at time:  Mon, 08 Feb 2021 19:29:44 +0000 on http://3.1.167.169 
+[2021-02-08 19:29:44 : INFO] - WP: 5.6.1 
+[2021-02-08 19:29:44 : INFO] - PHP: 7.4.13 (fpm-fcgi, Linux ip-172-31-25-92 4.19.0-14-cloud-amd64 #1 SMP Debian 4.19.171-2 (2021-01-30) x86_64) 
+[2021-02-08 19:29:44 : INFO] - MySQL: 8.0.22 
+[2021-02-08 19:29:44 : INFO] - WPLANG: en_US 
+[2021-02-08 19:29:44 : INFO] - Server: Apache 
+[2021-02-08 19:29:44 : INFO] - Outbound connections: N 
+[2021-02-08 19:29:44 : INFO] - safe_mode: 0 
+[2021-02-08 19:29:44 : INFO] - max_execution_time: 120 
+[2021-02-08 19:29:44 : INFO] - memory_limit: 512M (used: 10.7M | 12M) 
+[2021-02-08 19:29:44 : INFO] - multisite: N 
+[2021-02-08 19:29:44 : INFO] - openssl: OpenSSL 1.1.1h  22 Sep 2020 
+[2021-02-08 19:29:44 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2021-02-08 19:29:44 : INFO] - Set semaphore last lock (smush) time to 2021-02-08 19:29:44 
+[2021-02-08 19:29:44 : INFO] - Semaphore lock (smush) complete 
+[2021-02-08 19:29:44 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2021-02-08 19:29:44 : INFO] - Re_Smush_It_Task with attachment ID : 2488, autocreated on : February 08, 2021 07:24:38 
+[2021-02-08 19:29:44 : INFO] - 90 
+[2021-02-08 19:29:45 : INFO] - Backing up the original image - 2021/02/Magnus_Logo-updraft-pre-smush-original.jpg 
+[2021-02-08 19:29:45 : INFO] - Re_Smush_It_Task with attachment ID : 2488, autocreated on : February 08, 2021 07:24:38 
+[2021-02-08 19:29:45 : INFO] - 90 
+[2021-02-08 19:29:45 : INFO] - Re_Smush_It_Task with attachment ID : 2488, autocreated on : February 08, 2021 07:24:38 
+[2021-02-08 19:29:45 : INFO] - 90 
+[2021-02-08 19:29:47 : INFO] - Re_Smush_It_Task with attachment ID : 2488, autocreated on : February 08, 2021 07:24:38 
+[2021-02-08 19:29:47 : INFO] - 90 
+[2021-02-08 19:29:47 : INFO] - Re_Smush_It_Task with attachment ID : 2488, autocreated on : February 08, 2021 07:24:38 
+[2021-02-08 19:29:47 : INFO] - 90 
+[2021-02-08 19:29:49 : INFO] - Re_Smush_It_Task with attachment ID : 2488, autocreated on : February 08, 2021 07:24:38 
+[2021-02-08 19:29:49 : INFO] - 90 
+[2021-02-08 19:29:49 : INFO] - Re_Smush_It_Task with attachment ID : 2488, autocreated on : February 08, 2021 07:24:38 
+[2021-02-08 19:29:49 : INFO] - 90 
+[2021-02-08 19:29:50 : INFO] - Re_Smush_It_Task with attachment ID : 2488, autocreated on : February 08, 2021 07:24:38 
+[2021-02-08 19:29:50 : INFO] - 90 
+[2021-02-08 19:29:51 : INFO] - Re_Smush_It_Task with attachment ID : 2488, autocreated on : February 08, 2021 07:24:38 
+[2021-02-08 19:29:51 : INFO] - 90 
+[2021-02-08 19:29:52 : INFO] - Re_Smush_It_Task with attachment ID : 2488, autocreated on : February 08, 2021 07:24:38 
+[2021-02-08 19:29:52 : INFO] - 90 
+[2021-02-08 19:29:53 : INFO] - Re_Smush_It_Task with attachment ID : 2488, autocreated on : February 08, 2021 07:24:38 
+[2021-02-08 19:29:53 : INFO] - 90 
+[2021-02-08 19:29:54 : INFO] - Re_Smush_It_Task with attachment ID : 2488, autocreated on : February 08, 2021 07:24:38 
+[2021-02-08 19:29:54 : INFO] - 90 
+[2021-02-08 19:29:55 : INFO] - Re_Smush_It_Task with attachment ID : 2488, autocreated on : February 08, 2021 07:24:38 
+[2021-02-08 19:29:55 : INFO] - 90 
+[2021-02-08 19:29:56 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2021/02/Magnus_Logo.jpg.The file was compressed from 36.13 KB to 36.13 KB saving 0 percent using WP-Optimize 
+[2021-02-08 19:29:56 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2021-02-08 19:29:56 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2021-02-08 19:29:56 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:29:56 : INFO] - 90 
+[2021-02-08 19:29:58 : INFO] - Backing up the original image - 2021/02/Pluto-DA-Logo-Black-updraft-pre-smush-original.png 
+[2021-02-08 19:29:58 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:29:58 : INFO] - 90 
+[2021-02-08 19:29:58 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:29:58 : INFO] - 90 
+[2021-02-08 19:29:59 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:29:59 : INFO] - 90 
+[2021-02-08 19:30:00 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:30:00 : INFO] - 90 
+[2021-02-08 19:30:01 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:30:01 : INFO] - 90 
+[2021-02-08 19:30:04 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:30:04 : INFO] - 90 
+[2021-02-08 19:30:05 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:30:05 : INFO] - 90 
+[2021-02-08 19:30:09 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:30:09 : INFO] - 90 
+[2021-02-08 19:30:10 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:30:10 : INFO] - 90 
+[2021-02-08 19:30:10 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:30:10 : INFO] - 90 
+[2021-02-08 19:30:12 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:30:12 : INFO] - 90 
+[2021-02-08 19:30:12 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:30:12 : INFO] - 90 
+[2021-02-08 19:30:13 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:30:13 : INFO] - 90 
+[2021-02-08 19:30:15 : INFO] - Re_Smush_It_Task with attachment ID : 2489, autocreated on : February 08, 2021 07:26:14 
+[2021-02-08 19:30:15 : INFO] - 90 
+[2021-02-08 19:30:16 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2021/02/Pluto-DA-Logo-Black.png.The file was compressed from 26.47 KB to 26.47 KB saving 0 percent using WP-Optimize 
+[2021-02-08 19:30:16 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2021-02-08 19:30:16 : INFO] - Set semaphore last lock (smush) time to 2021-02-08 19:30:16 
+[2021-02-08 19:30:16 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2021-02-08 19:30:16 : INFO] - Re_Smush_It_Task with attachment ID : 2490, autocreated on : February 08, 2021 07:28:15 
+[2021-02-08 19:30:16 : INFO] - 90 
+[2021-02-08 19:30:18 : INFO] - Backing up the original image - 2021/02/icon-x21-white-updraft-pre-smush-original.png 
+[2021-02-08 19:30:18 : INFO] - Re_Smush_It_Task with attachment ID : 2490, autocreated on : February 08, 2021 07:28:15 
+[2021-02-08 19:30:18 : INFO] - 90 
+[2021-02-08 19:30:19 : INFO] - Re_Smush_It_Task with attachment ID : 2490, autocreated on : February 08, 2021 07:28:15 
+[2021-02-08 19:30:19 : INFO] - 90 
+[2021-02-08 19:30:19 : INFO] - Re_Smush_It_Task with attachment ID : 2490, autocreated on : February 08, 2021 07:28:15 
+[2021-02-08 19:30:19 : INFO] - 90 
+[2021-02-08 19:30:20 : INFO] - Re_Smush_It_Task with attachment ID : 2490, autocreated on : February 08, 2021 07:28:15 
+[2021-02-08 19:30:20 : INFO] - 90 
+[2021-02-08 19:30:21 : INFO] - Re_Smush_It_Task with attachment ID : 2490, autocreated on : February 08, 2021 07:28:15 
+[2021-02-08 19:30:21 : INFO] - 90 
+[2021-02-08 19:30:22 : INFO] - Re_Smush_It_Task with attachment ID : 2490, autocreated on : February 08, 2021 07:28:15 
+[2021-02-08 19:30:22 : INFO] - 90 
+[2021-02-08 19:30:22 : INFO] - Re_Smush_It_Task with attachment ID : 2490, autocreated on : February 08, 2021 07:28:15 
+[2021-02-08 19:30:22 : INFO] - 90 
+[2021-02-08 19:30:23 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2021/02/icon-x21-white.png.The file was compressed from 7.93 KB to 7.63 KB saving 3.73 percent using WP-Optimize 
+[2021-02-08 19:30:23 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2021-02-08 19:30:23 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-02-08 19:30:23 : INFO] - Semaphore (smush) unlocked 
+[2021-02-08 19:30:23 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2021-02-08 19:30:23 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-02-08 19:30:23 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2021-02-08 19:39:45 : INFO] - 
+ 
+[2021-02-08 19:39:45 : INFO] - Header for logs at time:  Mon, 08 Feb 2021 19:39:45 +0000 on http://3.1.167.169 
+[2021-02-08 19:39:45 : INFO] - WP: 5.6.1 
+[2021-02-08 19:39:45 : INFO] - PHP: 7.4.13 (fpm-fcgi, Linux ip-172-31-25-92 4.19.0-14-cloud-amd64 #1 SMP Debian 4.19.171-2 (2021-01-30) x86_64) 
+[2021-02-08 19:39:45 : INFO] - MySQL: 8.0.22 
+[2021-02-08 19:39:45 : INFO] - WPLANG: en_US 
+[2021-02-08 19:39:45 : INFO] - Server: Apache 
+[2021-02-08 19:39:45 : INFO] - Outbound connections: N 
+[2021-02-08 19:39:45 : INFO] - safe_mode: 0 
+[2021-02-08 19:39:45 : INFO] - max_execution_time: 120 
+[2021-02-08 19:39:45 : INFO] - memory_limit: 512M (used: 10.6M | 12M) 
+[2021-02-08 19:39:45 : INFO] - multisite: N 
+[2021-02-08 19:39:45 : INFO] - openssl: OpenSSL 1.1.1h  22 Sep 2020 
+[2021-02-08 19:39:45 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-02-08 19:43:13 : INFO] - Re_Smush_It_Task with attachment ID : 2491, autocreated on : February 08, 2021 07:43:13 
+[2021-02-08 19:49:00 : INFO] - 
+ 
+[2021-02-08 19:49:00 : INFO] - Header for logs at time:  Mon, 08 Feb 2021 19:49:00 +0000 on http://3.1.167.169 
+[2021-02-08 19:49:00 : INFO] - WP: 5.6.1 
+[2021-02-08 19:49:00 : INFO] - PHP: 7.4.13 (fpm-fcgi, Linux ip-172-31-25-92 4.19.0-14-cloud-amd64 #1 SMP Debian 4.19.171-2 (2021-01-30) x86_64) 
+[2021-02-08 19:49:00 : INFO] - MySQL: 8.0.22 
+[2021-02-08 19:49:00 : INFO] - WPLANG: en_US 
+[2021-02-08 19:49:00 : INFO] - Server: Apache 
+[2021-02-08 19:49:00 : INFO] - Outbound connections: N 
+[2021-02-08 19:49:00 : INFO] - safe_mode: 0 
+[2021-02-08 19:49:00 : INFO] - max_execution_time: 120 
+[2021-02-08 19:49:00 : INFO] - memory_limit: 512M (used: 10.7M | 12M) 
+[2021-02-08 19:49:00 : INFO] - multisite: N 
+[2021-02-08 19:49:00 : INFO] - openssl: OpenSSL 1.1.1h  22 Sep 2020 
+[2021-02-08 19:49:00 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-02-08 19:49:00 : INFO] - Set semaphore last lock (smush) time to 2021-02-08 19:49:00 
+[2021-02-08 19:49:00 : INFO] - Semaphore lock (smush) complete 
+[2021-02-08 19:49:00 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2021-02-08 19:49:00 : INFO] - Re_Smush_It_Task with attachment ID : 2491, autocreated on : February 08, 2021 07:43:13 
+[2021-02-08 19:49:00 : INFO] - 90 
+[2021-02-08 19:49:01 : INFO] - Backing up the original image - 2021/02/Screen-Shot-2021-02-08-at-12.42.28-PM-updraft-pre-smush-original.png 
+[2021-02-08 19:49:01 : INFO] - Re_Smush_It_Task with attachment ID : 2491, autocreated on : February 08, 2021 07:43:13 
+[2021-02-08 19:49:01 : INFO] - 90 
+[2021-02-08 19:49:01 : INFO] - Re_Smush_It_Task with attachment ID : 2491, autocreated on : February 08, 2021 07:43:13 
+[2021-02-08 19:49:01 : INFO] - 90 
+[2021-02-08 19:49:02 : INFO] - Re_Smush_It_Task with attachment ID : 2491, autocreated on : February 08, 2021 07:43:13 
+[2021-02-08 19:49:02 : INFO] - 90 
+[2021-02-08 19:49:03 : INFO] - Re_Smush_It_Task with attachment ID : 2491, autocreated on : February 08, 2021 07:43:13 
+[2021-02-08 19:49:03 : INFO] - 90 
+[2021-02-08 19:49:03 : INFO] - Re_Smush_It_Task with attachment ID : 2491, autocreated on : February 08, 2021 07:43:13 
+[2021-02-08 19:49:03 : INFO] - 90 
+[2021-02-08 19:49:04 : INFO] - Re_Smush_It_Task with attachment ID : 2491, autocreated on : February 08, 2021 07:43:13 
+[2021-02-08 19:49:04 : INFO] - 90 
+[2021-02-08 19:49:05 : INFO] - Re_Smush_It_Task with attachment ID : 2491, autocreated on : February 08, 2021 07:43:13 
+[2021-02-08 19:49:05 : INFO] - 90 
+[2021-02-08 19:49:06 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2021/02/Screen-Shot-2021-02-08-at-12.42.28-PM.png.The file was compressed from 9.35 KB to 9.35 KB saving 0 percent using WP-Optimize 
+[2021-02-08 19:49:06 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2021-02-08 19:49:06 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-02-08 19:49:06 : INFO] - Semaphore (smush) unlocked 
+[2021-02-08 19:49:06 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-02-08 19:49:06 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-02-08 19:49:06 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-02-08 20:05:26 : INFO] - 
+ 
+[2021-02-08 20:05:26 : INFO] - Header for logs at time:  Mon, 08 Feb 2021 20:05:26 +0000 on https://3.1.167.169 
+[2021-02-08 20:05:26 : INFO] - WP: 5.6.1 
+[2021-02-08 20:05:26 : INFO] - PHP: 7.4.13 (fpm-fcgi, Linux ip-172-31-25-92 4.19.0-14-cloud-amd64 #1 SMP Debian 4.19.171-2 (2021-01-30) x86_64) 
+[2021-02-08 20:05:26 : INFO] - MySQL: 8.0.22 
+[2021-02-08 20:05:26 : INFO] - WPLANG: en_US 
+[2021-02-08 20:05:26 : INFO] - Server: Apache 
+[2021-02-08 20:05:26 : INFO] - Outbound connections: N 
+[2021-02-08 20:05:26 : INFO] - safe_mode: 0 
+[2021-02-08 20:05:26 : INFO] - max_execution_time: 120 
+[2021-02-08 20:05:26 : INFO] - memory_limit: 512M (used: 10.7M | 12M) 
+[2021-02-08 20:05:26 : INFO] - multisite: N 
+[2021-02-08 20:05:26 : INFO] - openssl: OpenSSL 1.1.1h  22 Sep 2020 
+[2021-02-08 20:05:26 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
