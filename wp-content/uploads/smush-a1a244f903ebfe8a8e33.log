@@ -181,3 +181,86 @@
 [2021-02-08 20:05:26 : INFO] - multisite: N 
 [2021-02-08 20:05:26 : INFO] - openssl: OpenSSL 1.1.1h  22 Sep 2020 
 [2021-02-08 20:05:26 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-02-26 22:31:00 : INFO] - Re_Smush_It_Task with attachment ID : 2518, autocreated on : February 26, 2021 10:31:00 
+[2021-02-26 22:37:23 : INFO] - 
+ 
+[2021-02-26 22:37:23 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 22:37:23 +0000 on http://3.1.167.169 
+[2021-02-26 22:37:23 : INFO] - WP: 5.6.2 
+[2021-02-26 22:37:23 : INFO] - PHP: 7.4.13 (fpm-fcgi, Linux ip-172-31-25-92 4.19.0-14-cloud-amd64 #1 SMP Debian 4.19.171-2 (2021-01-30) x86_64) 
+[2021-02-26 22:37:23 : INFO] - MySQL: 8.0.22 
+[2021-02-26 22:37:23 : INFO] - WPLANG: en_US 
+[2021-02-26 22:37:23 : INFO] - Server: Apache 
+[2021-02-26 22:37:23 : INFO] - Outbound connections: N 
+[2021-02-26 22:37:23 : INFO] - safe_mode: 0 
+[2021-02-26 22:37:23 : INFO] - max_execution_time: 120 
+[2021-02-26 22:37:23 : INFO] - memory_limit: 512M (used: 10.9M | 12M) 
+[2021-02-26 22:37:23 : INFO] - multisite: N 
+[2021-02-26 22:37:23 : INFO] - openssl: OpenSSL 1.1.1h  22 Sep 2020 
+[2021-02-26 22:37:23 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 22:37:23 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 22:37:23 
+[2021-02-26 22:37:23 : INFO] - Semaphore lock (smush) complete 
+[2021-02-26 22:37:23 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2021-02-26 22:37:24 : INFO] - Re_Smush_It_Task with attachment ID : 2518, autocreated on : February 26, 2021 10:31:00 
+[2021-02-26 22:37:24 : INFO] - 90 
+[2021-02-26 22:37:24 : INFO] - Backing up the original image - 2021/02/OpenDomainDashboard-updraft-pre-smush-original.png 
+[2021-02-26 22:37:24 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2021/02/OpenDomainDashboard.png.The file was compressed from 9.23 KB to 3.73 KB saving 59.63 percent using WP-Optimize 
+[2021-02-26 22:37:24 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2021-02-26 22:37:24 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-02-26 22:37:24 : INFO] - Semaphore (smush) unlocked 
+[2021-02-26 22:37:24 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-02-26 22:37:24 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-02-26 22:37:24 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-02-26 22:44:26 : INFO] - Re_Smush_It_Task with attachment ID : 2521, autocreated on : February 26, 2021 10:44:26 
+[2021-02-26 22:47:45 : INFO] - 
+ 
+[2021-02-26 22:47:45 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 22:47:45 +0000 on http://3.1.167.169 
+[2021-02-26 22:47:45 : INFO] - WP: 5.6.2 
+[2021-02-26 22:47:45 : INFO] - PHP: 7.4.13 (fpm-fcgi, Linux ip-172-31-25-92 4.19.0-14-cloud-amd64 #1 SMP Debian 4.19.171-2 (2021-01-30) x86_64) 
+[2021-02-26 22:47:45 : INFO] - MySQL: 8.0.22 
+[2021-02-26 22:47:45 : INFO] - WPLANG: en_US 
+[2021-02-26 22:47:45 : INFO] - Server: Apache 
+[2021-02-26 22:47:45 : INFO] - Outbound connections: N 
+[2021-02-26 22:47:45 : INFO] - safe_mode: 0 
+[2021-02-26 22:47:45 : INFO] - max_execution_time: 120 
+[2021-02-26 22:47:45 : INFO] - memory_limit: 512M (used: 10.9M | 12M) 
+[2021-02-26 22:47:45 : INFO] - multisite: N 
+[2021-02-26 22:47:45 : INFO] - openssl: OpenSSL 1.1.1h  22 Sep 2020 
+[2021-02-26 22:47:45 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 22:47:45 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 22:47:45 
+[2021-02-26 22:47:45 : INFO] - Semaphore lock (smush) complete 
+[2021-02-26 22:47:45 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2021-02-26 22:47:45 : INFO] - Re_Smush_It_Task with attachment ID : 2521, autocreated on : February 26, 2021 10:44:26 
+[2021-02-26 22:47:45 : INFO] - 90 
+[2021-02-26 22:47:46 : INFO] - Backing up the original image - 2021/02/OpenDomainDashboard2-updraft-pre-smush-original.png 
+[2021-02-26 22:47:46 : INFO] - Re_Smush_It_Task with attachment ID : 2521, autocreated on : February 26, 2021 10:44:26 
+[2021-02-26 22:47:46 : INFO] - 90 
+[2021-02-26 22:47:47 : INFO] - Re_Smush_It_Task with attachment ID : 2521, autocreated on : February 26, 2021 10:44:26 
+[2021-02-26 22:47:47 : INFO] - 90 
+[2021-02-26 22:47:47 : INFO] - Re_Smush_It_Task with attachment ID : 2521, autocreated on : February 26, 2021 10:44:26 
+[2021-02-26 22:47:47 : INFO] - 90 
+[2021-02-26 22:47:48 : INFO] - Re_Smush_It_Task with attachment ID : 2521, autocreated on : February 26, 2021 10:44:26 
+[2021-02-26 22:47:48 : INFO] - 90 
+[2021-02-26 22:47:49 : INFO] - Re_Smush_It_Task with attachment ID : 2521, autocreated on : February 26, 2021 10:44:26 
+[2021-02-26 22:47:49 : INFO] - 90 
+[2021-02-26 22:47:49 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2021/02/OpenDomainDashboard2.png.The file was compressed from 3.91 KB to 3.91 KB saving 0 percent using WP-Optimize 
+[2021-02-26 22:47:49 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2021-02-26 22:47:49 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-02-26 22:47:49 : INFO] - Semaphore (smush) unlocked 
+[2021-02-26 22:47:49 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-02-26 22:47:49 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-02-26 22:47:49 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-02-26 22:58:05 : INFO] - 
+ 
+[2021-02-26 22:58:05 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 22:58:05 +0000 on http://3.1.167.169 
+[2021-02-26 22:58:05 : INFO] - WP: 5.6.2 
+[2021-02-26 22:58:05 : INFO] - PHP: 7.4.13 (fpm-fcgi, Linux ip-172-31-25-92 4.19.0-14-cloud-amd64 #1 SMP Debian 4.19.171-2 (2021-01-30) x86_64) 
+[2021-02-26 22:58:05 : INFO] - MySQL: 8.0.22 
+[2021-02-26 22:58:05 : INFO] - WPLANG: en_US 
+[2021-02-26 22:58:05 : INFO] - Server: Apache 
+[2021-02-26 22:58:05 : INFO] - Outbound connections: N 
+[2021-02-26 22:58:05 : INFO] - safe_mode: 0 
+[2021-02-26 22:58:05 : INFO] - max_execution_time: 120 
+[2021-02-26 22:58:05 : INFO] - memory_limit: 512M (used: 10.9M | 12M) 
+[2021-02-26 22:58:05 : INFO] - multisite: N 
+[2021-02-26 22:58:05 : INFO] - openssl: OpenSSL 1.1.1h  22 Sep 2020 
+[2021-02-26 22:58:05 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
