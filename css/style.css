@@ -90,9 +90,22 @@ p {
     justify-content: space-around;
 }
 
+
+.team-card-value img {
+    border-radius: 10px;
+}
+
+.team-card-value {
+ background-image: none !important;
+}
+
+
+
 .about-content-project .url a img {
     width: 1.2rem;
 }
+
+
 
 
 
@@ -142,7 +155,6 @@ p {
 }
 
 .team-card-value img {
-    width: 100px;
-    height: 100px;
-    margin-bottom: 0.16rem;
+    width: 100%;
+    margin-bottom: 0.5rem;
 }
