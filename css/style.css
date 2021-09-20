@@ -69,3 +69,80 @@ p {
         display: none;
     }
 }
+
+
+
+.about-content-project .url {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    margin-left: .32rem;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: absolute;
+    top: .16rem;
+    width: 5.47rem;
+    justify-content: space-around;
+}
+
+.about-content-project .url a img {
+    width: 1.2rem;
+}
+
+
+
+
+
+    .create-main-left-project .url {
+        display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    margin-left: .32rem;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: absolute;
+    top: .16rem;
+    width: 5.47rem;
+    justify-content: space-around;
+}
+.partners-contant-item:nth-child(1) {
+    border-radius: 0 0 0;
+}
+
+.partners-contant-item:nth-child(2) {
+    border-radius: 0 0 0;
+}
+
+
+
+.
+.partners-contant-item .bw {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: absolute;
+    opacity: 1;
+    -webkit-transition: opacity .3s ease;
+    -o-transition: opacity .3s ease;
+    transition: opacity .3s ease;
+}
+
+.partners-contant img{
+    max-height: 150px; 
+}
+
+.team-card-value img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 0.16rem;
+}
